@@ -1,13 +1,9 @@
-### Hi there 👋 Myself Deepansh :)
+
 
 <!--
 **deepanshdubey/deepanshdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, I'm Aqdas</h1><h3 align="center">A passionate programmer from India</h3><p  align="left">
 
-<!--
-<a href="https://twitter.com/aqdasak"  target="blank"><img  src="https://img.shields.io/twitter/follow/aqdasak?logo=twitter&style=for-the-badge"  alt="aqdasak" /></a> </p>
--->
 
 ### Hi there 👋 Myself Deepansh :)
 
