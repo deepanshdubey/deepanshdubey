@@ -4,13 +4,10 @@
 **deepanshdubey/deepanshdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-### Hi there 👋 Myself Deepansh :)
-
 <!--
 **deepanshdubey/deepanshdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, Myself Deepansh</h1><h3 align="center">A tech enthusiast</h3><p  align="left">
+<h1 align="center">Hi 👋, Myself Deepansh :)</h1><h3 align="center">A tech enthusiast</h3><p  align="left">
 
 <!--
 <a href="https://twitter.com/DeepansDubey1"  target="blank"><img  src="https://img.shields.io/twitter/follow/DeepansDubey1?logo=twitter&style=for-the-badge"  alt="DeepansDubey1" /></a> </p>
