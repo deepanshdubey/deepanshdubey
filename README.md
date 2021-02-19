@@ -10,13 +10,13 @@
 <h1 align="center">Hi 👋, Myself Deepansh :)</h1><h3 align="center">A tech enthusiast</h3><p  align="left">
 
 <!--
-<a href="https://twitter.com/DeepansDubey1"  target="blank"><img  src="https://img.shields.io/twitter/follow/DeepansDubey1?logo=twitter&style=for-the-badge"  alt="DeepansDubey1" /></a> </p>
+<a href="https://twitter.com/deepanshdubey_"  target="blank"><img  src="https://img.shields.io/twitter/follow/DeepansDubey1?logo=twitter&style=for-the-badge"  alt="deepanshdubey_" /></a> </p>
 -->
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Javascript.
 - ⚡ Fun fact: Some mysteries are better left unsolved. 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-deepansh.dubey20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deepansh.dubey20@gmail.com)](mailto:deepansh.dubey20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-deepanshdubey-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshdubey/)](https://www.linkedin.com/in/deepanshdubey/) [![Github Badge](https://img.shields.io/badge/-deepanshdubey-grey?style=flat&logo=github&logoColor=white&link=https://github.com/deepanshdubey/)](https://www.github.com/deepanshdubey/) [![Twitter Badge](https://img.shields.io/badge/-DeepanshDubey1-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/DeepanshDubey1/)](https://www.twitter.com/DeepanshDubey1/) 
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-deepansh.dubey20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deepansh.dubey20@gmail.com)](mailto:deepansh.dubey20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-deepanshdubey-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshdubey/)](https://www.linkedin.com/in/deepanshdubey/) [![Github Badge](https://img.shields.io/badge/-deepanshdubey-grey?style=flat&logo=github&logoColor=white&link=https://github.com/deepanshdubey/)](https://www.github.com/deepanshdubey/) [![Twitter Badge](https://img.shields.io/badge/-deepanshdubey_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/deepanshdubey_)/)](https://www.twitter.com/deepanshdubey_/) 
 
   <!--
 
