@@ -30,7 +30,7 @@
   
     -->
 <h3 align="left">Connect with me:</h3>
-<div style= "background-color: gray; width: max-content;">
+<div style= "background-color: white; width: max-content;">
 <p align="left">
 
 <a  href="https://twitter.com/DeepanshDubey1" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="DeepanshDubey1" height="30" width="40" /></a>
@@ -57,7 +57,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/"  target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="background: grey;border-radius: 6px;" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="background: white;border-radius: 6px;" width="40" height="40">
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank">
