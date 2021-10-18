@@ -30,7 +30,7 @@
   
     -->
 <h3 align="left">Connect with me:</h3>
-
+<div style= "background-color: gray; width: max-content;">
 <p align="left">
 
 <a  href="https://twitter.com/DeepanshDubey1" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="DeepanshDubey1" height="30" width="40" /></a>
@@ -38,7 +38,7 @@
 <a  href="https://linkedin.com/in/deepanshdubey" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="deepanshdubey" height="30" width="40" /></a>
 
 <a  href="https://instagram.com/d.fangs_" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="d.fangs_" height="30" width="40" /></a>
-
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -57,7 +57,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/"  target="_blank">
-<img  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"  alt="flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="background: grey;border-radius: 6px;" width="40" height="40">
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank">
