@@ -17,16 +17,11 @@
     -->
 
 <h3 align="left">Connect with me:</h3>
-<div style= "background-color: white; width: max-content;">
-<p align="left">
 
-<a  href="https://twitter.com/deepanshdubey_" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="DeepanshDubey1" height="30" width="40" /></a>
-
-<a  href="https://linkedin.com/in/deepanshdubey" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="deepanshdubey" height="30" width="40" /></a>
-
-<a  href="https://instagram.com/d.fangs_" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="d.fangs_" height="30" width="40" /></a>
-</div>
-
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:deepansh.dubey20@gmail.com)](mailto:deepansh.dubey20@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshdubey/)](https://www.linkedin.com/in/deepanshdubey/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter_-00acee?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/deepanshdubey_/)](https://www.twitter.com/deepanshdubey_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-0072b1?style=for-the-badge&color=ee4959&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/deepanshdubey/)](https://instagram.com/d.fangs_)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -45,7 +40,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/"  target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="background: white;border-radius: 6px;" width="40" height="40">
+<img  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"  alt="flask" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank">
