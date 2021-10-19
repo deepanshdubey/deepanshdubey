@@ -1,22 +1,8 @@
-
-
-<!--
-**deepanshdubey/deepanshdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!--
-**deepanshdubey/deepanshdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <h1 align="center">Hi 👋, Myself Deepansh :)</h1><h3 align="center">A tech enthusiast</h3><p  align="left">
-
-<!--
-<a href="https://twitter.com/deepanshdubey_"  target="blank"><img  src="https://img.shields.io/twitter/follow/DeepansDubey1?logo=twitter&style=for-the-badge"  alt="deepanshdubey_" /></a> </p>
--->
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Javascript.
 - ⚡ Fun fact: Some mysteries are better left unsolved. 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-deepansh.dubey20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deepansh.dubey20@gmail.com)](mailto:deepansh.dubey20@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-deepanshdubey-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshdubey/)](https://www.linkedin.com/in/deepanshdubey/) [![Github Badge](https://img.shields.io/badge/-deepanshdubey-grey?style=flat&logo=github&logoColor=white&link=https://github.com/deepanshdubey/)](https://www.github.com/deepanshdubey/) [![Twitter Badge](https://img.shields.io/badge/-deepanshdubey_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/deepanshdubey_)](https://www.twitter.com/deepanshdubey_/) 
 
   <!--
 
@@ -29,16 +15,13 @@
   - 😄 Pronouns: ...
   
     -->
+
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-
-<a  href="https://twitter.com/DeepanshDubey1" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="DeepanshDubey1" height="30" width="40" /></a>
-
-<a  href="https://linkedin.com/in/deepanshdubey" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="deepanshdubey" height="30" width="40" /></a>
-
-<a  href="https://instagram.com/d.fangs_" target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="d.fangs_" height="30" width="40" /></a>
-
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:deepansh.dubey20@gmail.com)](mailto:deepansh.dubey20@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshdubey/)](https://www.linkedin.com/in/deepanshdubey/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter_-00acee?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/deepanshdubey_/)](https://www.twitter.com/deepanshdubey_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-0072b1?style=for-the-badge&color=ee4959&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/deepanshdubey/)](https://instagram.com/d.fangs_)
 
 <h3 align="left">Languages and Tools:</h3>
 
