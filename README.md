@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Myself Deepansh :)</h1><h3 align="center">A tech enthusiast</h3><p  align="left">
 
 - 🔭 I’m currently working on Data Science & ML.
-- 🌱 I’m currently learning use of Python Libraries.
+- 🌱 I’m currently learning use of Python Libraries(Tkinter).
 - ⚡ Fun fact: Some mysteries are better left unsolved. 
 
   <!--
